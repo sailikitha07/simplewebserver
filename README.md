@@ -22,6 +22,8 @@ Serving the HTML pages.
 Testing the webserver.
 
 ## PROGRAM:
+
+```
 <HTML>
 <Body>
 <div style="text-align: center;">
@@ -45,6 +47,8 @@ Testing the webserver.
 </TR>
 </Table>
 </Body>
+
+```
 
 ## OUTPUT:
 ![output](https://github.com/user-attachments/assets/3bdebbdd-3ffd-49ec-98b2-8788d4c0feca)
