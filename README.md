@@ -22,10 +22,32 @@ Serving the HTML pages.
 Testing the webserver.
 
 ## PROGRAM:
-
+<HTML>
+<Body>
+<div style="text-align: center;">
+<IMG src="c:\Users\admin\Downloads\logo.png" height="200" width="500" >
+</div>
+<Table Border="1" Align="center" cellpadding="5" >    
+<TR>
+    <TH>SNO.</TH><TH>Layer</TH><TH>Protocols</TH>
+</TR>
+<TR>
+    <TD>1</TD><TD>Application Layer</TD><TD>HTFP,FTP,SSH,Telnet,DNS</TD>
+</TR>
+<TR>
+    <TD>2</TD><TD>Transport Layer</TD><TD>TCP & UDP</TD>
+</TR> 
+<TR>
+    <TD>3</TD><TD>Internet Layer</TD><TD>IP V4/IP V6</TD>
+</TR>
+<TR>
+    <TD>4</TD><TD>Network Access Layer</TD><TD>MAC/Eathernet</TD>
+</TR>
+</Table>
+</Body>
 
 ## OUTPUT:
-
+![output](https://github.com/user-attachments/assets/3bdebbdd-3ffd-49ec-98b2-8788d4c0feca)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
