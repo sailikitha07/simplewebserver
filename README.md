@@ -50,6 +50,7 @@ Testing the webserver.
 ```
 
 ## OUTPUT:
+![output1](https://github.com/user-attachments/assets/f0dbd906-ddcf-4f1f-8361-6fa68ce905f5)
 ![output](https://github.com/user-attachments/assets/3bdebbdd-3ffd-49ec-98b2-8788d4c0feca)
 
 ## RESULT:
